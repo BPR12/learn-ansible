@@ -15,7 +15,7 @@
     - name: Boolean Conditions
       debug:
         msg: b is true
-        when: b is true
+        when: b 
       
   
 
